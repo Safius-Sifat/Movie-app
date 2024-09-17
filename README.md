@@ -9,7 +9,7 @@ This is an improved version of [Andrea Bizottos](https://github.com/bizz84/tmdb_
 
 ## Preview
 <div align="center">
-<img src="movida.gif" alt="Movies app preview" width=35% >
+<img src="movida.gif" alt="Movies app preview" width=200 >
 </div>
 
 ## Motivation
